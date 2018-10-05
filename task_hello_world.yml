@@ -9,5 +9,5 @@ inputs:
 - name: concourseci
 
 run:
-  path: sh concourseci/task-script.sh
+  path: ./concourseci/task-script.sh
 
