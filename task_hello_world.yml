@@ -6,8 +6,8 @@ image_resource:
   source: {repository: ubuntu}
 
 inputs:
-- name: concourse
+- name: concourseci
 
 run:
-  path: ./concourse/task-script.sh
+  path: ./concourseci/task-script.sh
 
